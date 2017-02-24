@@ -28,6 +28,10 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We use microphone only to recognize what you say when you give commands to application.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We are using speech recognition only to recognize your commands to application.</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
